@@ -3,17 +3,17 @@ Vamos a identificar los siguientes tipos de datos
 
 NUMEROS ENTEROS : 
 
-      TU RESPUESTA AQUI
+      -1, -50, 0, 3, 1000
 
 NUMEROS DECIMALES: 
 
-      TU RESPUESTA AQUI
+      1.0004,  25.5, 8.3
 
 CARACTER : 
 
-      TU RESPUESTA AQUI
+      'b', 'D', '2', 'O'
 
 CADENA DE CARACTERES : 
 
-      TU RESPUESTA AQUI
+      "Este es un ejemplo de cadena de caracteres con 55 tipos"
     
