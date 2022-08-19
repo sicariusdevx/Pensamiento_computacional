@@ -3,38 +3,49 @@
 ¿Qué tipo de dato debe tener una variable para representar la calificación promedio de un
 curso?
 
-      TU RESPUESTA AQUI
+      float
 
 ¿Qué tipo de dato debe tener una variable para representar el número de personas en un
 hogar?
 
-      TU RESPUESTA AQUI
+      integer
 
 ¿Qué tipo de dato debe tener una variable para contener el nombre de pila de una persona?
 
-      TU RESPUESTA AQUI
+      string
 
 ¿Qué tipo de dato debe tener una variable para registrar si está lloviendo o no?
 
-      TU RESPUESTA AQUI
+      boolean
 
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
 
-      TU RESPUESTA AQUI
+      float
       
 ## EJERCICIO 2
 
 Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro calificaciones, una por periodo, de cada materia.
 
-      TU ALGORITMO AQUI
-      
+      01. Inicio
+      02. Declarar calif1(float),calif2(float),calif3(float),calif4(float),promedio(float)
+      03. Inicializar calif1=0,calif2=0,calif3=0,calif4=0,promedio=0
+      04. mostrar "Introduce las calificaciones del periodo"
+      05. asignar calif1,calif2,calif3,calif4,
+      06. promedio = (calif1 + calif2 + calif3 + calif4) / 4
+      07. mostrar "el promedio del alumno es {promedio}"
+      08. Fin
       
 ## EJERCICIO 3
 
 Realiza un algoritmo para un programa que solicite al usuario su nombre y le salude usando ese nombre
 
-      TU ALGORITMO AQUI  
+      01. Inicio
+      02. declarar nombre(string)
+      03. Mostrar "Introduce tu nombre: "
+      04. Leer nombre
+      05. Mostrar "Hola, Bienvenido ", nombre
+      06. Fin
 
 ## EJERCICIO 3
 
@@ -43,3 +54,32 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
       TU ALGORITMO AQUI  
 
 Ahora llevalos a PSINT
+
+Pseudocódigo Ejercicio 2:
+
+Algoritmo Promedio
+    Definir calif1, calif2, calif3, calif4, prom Como Real;
+    Escribir "Introduce los valores de las calificaciones";
+    Escribir "Calificacion 1: ";
+    Leer calif1;
+    Escribir "Calificacion 2: ";
+    Leer calif2;
+    Escribir "Calificacion 3: ";
+    Leer calif3;
+    Escribir "Calificacion 4: ";
+    Leer calif4;
+    prom <- (calif1 + calif2 + calif3 + calif4) / 4;
+    Escribir "El promedio final es: ",prom;
+FinAlgoritmo
+
+Pseudocódigo ejercicio 3
+
+Algoritmo Promedio
+    Definir nombre Como Cadena;
+    Escribir "Introduce tu nombre";
+    Leer nombre;
+    Escribir "Hola ",nombre,". Bienvenido a PILARES.";
+FinAlgoritmo
+
+Pseudocódigo Ejercicio 4
+
