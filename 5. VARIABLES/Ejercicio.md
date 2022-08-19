@@ -51,10 +51,16 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
 
 Realiza un algoritmo para  un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros de combustible que consumió durante ese recorrido. El consumo por kilómetro es de 20.8
 
-      TU ALGORITMO AQUI  
+      01. Inicio
+      02. declarar dist(float), consumo(float)
+      03. mostrar "Introduce la distancia recorrida en km: "
+      04. leer dist
+      05. consumo = 20.8 * dist
+      06. mostrar "Se consumieron ",consumo, " litros"
+      07. fin
 
 Ahora llevalos a PSINT
-
+```
 Pseudocódigo Ejercicio 2:
 
 Algoritmo Promedio
@@ -83,3 +89,11 @@ FinAlgoritmo
 
 Pseudocódigo Ejercicio 4
 
+Algoritmo Promedio
+    Definir dist, consumo Como Cadena;
+    Escribir "Introduce la distancia recorrida en km ";
+    Leer dist;
+    consumo = 20.8 * dist
+    Escribir "Se consumienron ",consumo," litros;
+FinAlgoritmo
+```
