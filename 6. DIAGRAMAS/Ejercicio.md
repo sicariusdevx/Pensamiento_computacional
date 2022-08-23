@@ -1,3 +1,7 @@
+Para trabajar en línea los diagramas de flujo
+https://app.diagrams.net/
+
+
 ## RETO
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
 
