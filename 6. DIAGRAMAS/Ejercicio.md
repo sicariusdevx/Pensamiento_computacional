@@ -44,7 +44,34 @@ https://app.diagrams.net/
 
 ##PSEUDOCÓDIGO
 
+#Reto 1
+Algoritmo multiplicar
+        Definir num, resultado Como Real;
+        Escribir "Ingresa un número: ";
+        Leer num;
+        resultado = num * 9;
+        mostrar num," * 9 = ",resultado;
+ FinAlgoritmo
+ 
+ #Reto 2
+ Algoritmo distancia
+	Definir dist,result Como Real;
+	Mostrar "Ingresa la distancia a convertir: ";
+	Leer dist;
+	result = dist *  1.09361;
+	Mostrar dist, " metros es igual a ", result, " yardas";
+FinAlgoritmo
 
+#Reto 3
 
+Algoritmo distancia
+	Definir base,altura,area Como Real;
+	Mostrar "Introduce la medida de la base: ";
+	Leer base;
+	Mostrar "Introduce la medida de la altura: ";
+	Leer altura;
+	area = base * altura / 2;
+	Mostrar "El area es igual a: ",area;
+FinAlgoritmo
 
 
