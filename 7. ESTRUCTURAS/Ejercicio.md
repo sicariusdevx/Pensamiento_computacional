@@ -10,9 +10,10 @@
         8. si no => mostrar num1 es mayor
         9. fin
         
-        ![image](https://user-images.githubusercontent.com/20374059/187010018-b3555e44-da88-4307-98a3-9854a0e5ba50.png)
-
         
+![image](https://user-images.githubusercontent.com/20374059/187010018-b3555e44-da88-4307-98a3-9854a0e5ba50.png)
+
+
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
         1. Inicio
